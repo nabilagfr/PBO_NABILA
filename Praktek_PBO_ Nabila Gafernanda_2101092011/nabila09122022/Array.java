@@ -11,6 +11,9 @@ package nabila09122022;
  */
 public class Array {
     public static void main(String[] args) {
-        
+        int nilai[]=new int[20];
+        nilai[0] = 70;
+        System.out.println("Nilai Ke 1 "+nilai[0]); 
+        boolean results[] = (true,false);
     }
 }
